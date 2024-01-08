@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bannar{
+    background-image: url("../style/Banner\ Image.png");
+    background-position: bottom center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin: 60px;
+    border-radius: 6px;
+}
+.bannar h4{
+    color:orangered;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 90px;
+}
+.bannar h2{
+    color:orangered;
+    font-size: 72px;
+    text-align: center;
+    padding-top: 90px;
+}
+.f1{
+    text-align: center;
+}
+h2{
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+    font-weight: 500;
+    padding-bottom: 40px;
+}
+p{
+    color: red;
+}
+.f2{
+    color: #070211;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+font-weight: 400;
+}
+.Photo{
+    background-image: url('style/Vectorrr.png');
+}
+
